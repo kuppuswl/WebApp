@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>This is HP DevOps GP6</title>
+<title>This is MARS DevOps GP6</title>
 <style>
 body{
 background-color: #f9f8f7;
@@ -52,6 +52,12 @@ color:white;
 <a href="" style="color: white;font-size: 20px;position: absolute;left:71px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:54px;">Configure</a><br>
 </section>
+<section class="wlp-login-message-content" style="left: 380px;top: 210px;">
+<b><p style="text-align: center;font-size: 25px;">VOICE SERVICE</p></b>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:67px;">Create</a><br>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:71px;">View</a><br>
+<a href="" style="color: white;font-size: 20px;position: absolute;left:54px;">Configure</a><br>
+</section>
 <section class="wlp-login-message-content" style="left: 640px;top: 210px;">
 	<b> Sujai is running Jenkins now :) <b>
 <b><p style="text-align: center;font-size: 25px;">REPAIR</p></b>
@@ -68,7 +74,7 @@ color:white;
 </div>
 <div class="text-center">
    <span id="fullyear">2017</span>
-   &#169; DEVOPS UNION. All Rights Reserved.<br>
+   &#169; GP6 DEVOPS UNION. All Rights Reserved.<br>
    | India | Singapore | Belgium | USA |
   </div>
   </form>
