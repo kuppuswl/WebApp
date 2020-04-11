@@ -163,9 +163,9 @@ position: absolute;
 <div id="headlinks">
 <p style="text-align:right"><a href="">Business</a>&#160;&#160;<a href="">Contact Us</a></p>
 </div><br>
-<img src="hp-logo.jpeg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
+<img src="Mars_Comms.png" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">HP COMMUNICATION</h1></b>
+<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
